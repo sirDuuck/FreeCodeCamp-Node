@@ -7,8 +7,7 @@
 	"version": "1.2.0",
 	"dependencies": {
 	  "express": "^4.16.4",
-	  "helmet": "^3.14.0",
-	  "package": "1.2.13"
+	  "helmet": "^3.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -18,7 +17,7 @@
 	  "node": "8.11.2"
 	},
 	"repository": {
-	  "type": "github",
+	  "type": "git",
 	  "url": "https://github.com/sirDuuck/FreeCodeCamp-Node"
 	}
   }
