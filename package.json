@@ -5,12 +5,11 @@
 	"keywords": ["descriptive", "related", "words", "freecodecamp"],
 	"license": "MIT",
 	"version": "1.2.0",
-	"package": "MAJOR.MINOR 1.2.13",
 	"dependencies": {
-		"express": "^4.16.4",
-		"helmet": "^3.14.0",
-		"@freecodecamp/example": "1.1.0"
-	  },
+	  "express": "^4.16.4",
+	  "helmet": "^3.14.0",
+	  "@freecodecamp/example": "1.2.13"  // Alteração da versão aqui
+	},
 	"main": "server.js",
 	"scripts": {
 	  "start": "node server.js"
@@ -23,3 +22,4 @@
 	  "url": "https://github.com/sirDuuck/FreeCodeCamp-Node"
 	}
   }
+  
