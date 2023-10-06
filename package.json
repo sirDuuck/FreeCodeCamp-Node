@@ -1,10 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Brando",
-    "description": "A project that does something awesome",
+	"description": "A project that does something awesome",
 	"keywords": ["descriptive", "related", "words", "freecodecamp"],
-	"license": "MIT",	
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
+	  "package-name": "version",
 	  "express": "^4.14.0"
 	},
 	"main": "server.js",
