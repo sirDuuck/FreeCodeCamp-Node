@@ -8,7 +8,7 @@
 	"dependencies": {
 	  "express": "^4.16.4",
 	  "helmet": "^3.14.0",
-	  "dependency1": "^major.minor.patch"
+	  "package": "1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
