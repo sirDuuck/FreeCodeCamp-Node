@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Brando",
+    "description": "A project that does something awesome",
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
@@ -12,7 +13,7 @@
 	  "node": "8.11.2"
 	},
 	"repository": {
-	  "type": "githu",
+	  "type": "github",
 	  "url": "https://github.com/sirDuuck/FreeCodeCamp-Node"
 	}
   }
