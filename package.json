@@ -5,6 +5,7 @@
 	"keywords": ["descriptive", "related", "words", "freecodecamp"],
 	"license": "MIT",
 	"version": "1.2.0",
+	"package": "MAJOR.MINOR 1.2.13",
 	"dependencies": {
 		"express": "^4.16.4",
 		"helmet": "^3.14.0",
