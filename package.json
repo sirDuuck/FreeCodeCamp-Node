@@ -8,7 +8,7 @@
 	"dependencies": {
 	  "express": "^4.16.4",
 	  "helmet": "^3.14.0",
-	  "@freecodecamp/example": "1.2.13"  // Alteração da versão aqui
+	  "dependency1": "^major.minor.patch"
 	},
 	"main": "server.js",
 	"scripts": {
